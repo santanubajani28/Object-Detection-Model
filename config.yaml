@@ -1,0 +1,96 @@
+# ============================================================
+#  Road Object Detection System — Configuration
+# ============================================================
+
+# ------------------------------------
+# Video Source
+#   0         = Default webcam
+#   "rtsp://..." = IP Camera RTSP URL
+#   "path/to/file.mp4" = Local video file
+# ------------------------------------
+video_source: 0           # Change to file path for development
+
+# ------------------------------------
+# Output display window
+# ------------------------------------
+display_width: 1280
+display_height: 720
+show_fps: true
+show_detections_panel: true   # Show live detection list on screen
+
+# ------------------------------------
+# Inference
+# ------------------------------------
+device: "cpu"             # "cpu" or "cuda" (GPU)
+imgsz: 640                # Inference image size (must be multiple of 32)
+
+# ------------------------------------
+# Model Weights (relative to models/)
+# ------------------------------------
+models:
+  general:        "yolov8n.pt"               # COCO pretrained (signs, people, vehicles)
+  pothole:        "pothole_yolov8.pt"         # Fine-tuned for pothole detection
+  helmet:         "helmet_yolov8.pt"          # Fine-tuned for helmet detection
+  license_plate:  "license_plate_yolov8.pt"   # Fine-tuned for plate detection
+
+# ------------------------------------
+# Detection Confidence Thresholds
+# ------------------------------------
+confidence:
+  general: 0.45
+  pothole: 0.40
+  helmet:  0.50
+  license_plate: 0.55
+
+# ------------------------------------
+# Object Tracking (ByteTrack)
+# ------------------------------------
+tracking:
+  enabled: true
+  track_thresh: 0.25
+  match_thresh: 0.8
+  track_buffer: 30
+
+# ------------------------------------
+# Lane Detection (Wrong-Way)
+# ------------------------------------
+lane:
+  enabled: true
+  # Region of Interest — trapezoid vertices (relative 0.0-1.0 of frame)
+  roi:
+    top_left:     [0.35, 0.55]
+    top_right:    [0.65, 0.55]
+    bottom_right: [0.95, 0.95]
+    bottom_left:  [0.05, 0.95]
+  canny_low:  50
+  canny_high: 150
+  hough_threshold: 30
+  wrong_way_vector_threshold: 0.6   # cosine similarity threshold
+
+# ------------------------------------
+# OCR (License Plate)
+# ------------------------------------
+ocr:
+  enabled: true
+  languages: ["en"]
+  min_confidence: 0.4
+  cache_frames: 10          # Debounce: reuse last reading for N frames
+
+# ------------------------------------
+# Alert System
+# ------------------------------------
+alerts:
+  log_file: "logs/detections.log"
+  cooldown_seconds: 3       # Min seconds between same-class alerts
+  sound_enabled: false      # Enable audio beep on detection
+  sound_file: "web/static/alert.wav"
+
+# ------------------------------------
+# Flask Web Dashboard
+# ------------------------------------
+web:
+  host: "0.0.0.0"
+  port: 5000
+  stream_quality: 75        # JPEG quality (1-100)
+  stream_fps_limit: 25      # Max FPS to stream to browser
+  debug: false

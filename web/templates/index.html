@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ODM — Road Object Detection Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" />
+  <link rel="stylesheet" href="/static/css/dashboard.css" />
+</head>
+<body>
+  <!-- ── Header ─────────────────────────────────────────────────────────── -->
+  <header class="header">
+    <div class="header-left">
+      <div class="logo">
+        <span class="logo-icon">🛣</span>
+        <div>
+          <h1 class="logo-title">ODM</h1>
+          <p class="logo-sub">Object Detection Monitor</p>
+        </div>
+      </div>
+    </div>
+    <div class="header-center">
+      <div class="status-badge" id="statusBadge">
+        <span class="pulse-dot"></span>
+        <span id="statusText">Connecting…</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="stat-pill" id="fpsDisplay">
+        <span class="stat-label">FPS</span>
+        <span class="stat-value" id="fpsValue">—</span>
+      </div>
+      <div class="stat-pill" id="detCount">
+        <span class="stat-label">OBJECTS</span>
+        <span class="stat-value" id="detValue">0</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── Main content ────────────────────────────────────────────────────── -->
+  <main class="main">
+
+    <!-- Live video stream -->
+    <section class="video-section">
+      <div class="video-container">
+        <img id="videoFeed" src="/video_feed" alt="Live camera feed" />
+        <div class="video-overlay-tl">
+          <span class="badge badge-live">⬤ LIVE</span>
+        </div>
+        <div class="video-overlay-br" id="frameTs">—</div>
+      </div>
+    </section>
+
+    <!-- Right panel -->
+    <aside class="side-panel">
+
+      <!-- Detection counters -->
+      <div class="panel-card">
+        <h2 class="card-title">Detection Summary</h2>
+        <div class="counter-grid" id="counterGrid">
+          <div class="counter-tile" id="cnt-pothole">
+            <span class="cnt-icon">🕳</span>
+            <span class="cnt-label">Potholes</span>
+            <span class="cnt-value" id="n-pothole">0</span>
+          </div>
+          <div class="counter-tile" id="cnt-sign_board">
+            <span class="cnt-icon">🪧</span>
+            <span class="cnt-label">Signs</span>
+            <span class="cnt-value" id="n-sign_board">0</span>
+          </div>
+          <div class="counter-tile" id="cnt-license_plate">
+            <span class="cnt-icon">🔢</span>
+            <span class="cnt-label">Plates</span>
+            <span class="cnt-value" id="n-license_plate">0</span>
+          </div>
+          <div class="counter-tile" id="cnt-no_helmet">
+            <span class="cnt-icon">❌</span>
+            <span class="cnt-label">No Helmet</span>
+            <span class="cnt-value" id="n-no_helmet">0</span>
+          </div>
+          <div class="counter-tile" id="cnt-helmet">
+            <span class="cnt-icon">✅</span>
+            <span class="cnt-label">Helmets</span>
+            <span class="cnt-value" id="n-helmet">0</span>
+          </div>
+          <div class="counter-tile danger-tile" id="cnt-wrong_way">
+            <span class="cnt-icon">⚠️</span>
+            <span class="cnt-label">Wrong Way</span>
+            <span class="cnt-value" id="n-wrong_way">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Live detection list -->
+      <div class="panel-card">
+        <h2 class="card-title">Live Detections</h2>
+        <div class="det-list" id="detList">
+          <p class="empty-state">Awaiting detections…</p>
+        </div>
+      </div>
+
+      <!-- Recent alerts log -->
+      <div class="panel-card">
+        <div class="card-title-row">
+          <h2 class="card-title">Alert Log</h2>
+          <button class="btn-refresh" onclick="refreshAlerts()">↺ Refresh</button>
+        </div>
+        <div class="alert-log" id="alertLog">
+          <p class="empty-state">No alerts yet.</p>
+        </div>
+      </div>
+
+    </aside>
+  </main>
+
+  <script src="https://cdn.socket.io/4.7.4/socket.io.min.js"></script>
+  <script src="/static/js/dashboard.js"></script>
+</body>
+</html>

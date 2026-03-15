@@ -1,0 +1,318 @@
+{"ts": "2026-03-11T22:12:50", "severity": "INFO", "class": "vehicle", "confidence": 0.894, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:12:50", "severity": "INFO", "class": "car", "confidence": 0.894, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:50", "severity": "INFO", "class": "truck", "confidence": 0.587, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:50", "severity": "INFO", "class": "bus", "confidence": 0.554, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:53", "severity": "INFO", "class": "vehicle", "confidence": 0.876, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:12:53", "severity": "INFO", "class": "car", "confidence": 0.876, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:53", "severity": "INFO", "class": "bus", "confidence": 0.582, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:54", "severity": "INFO", "class": "truck", "confidence": 0.57, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:57", "severity": "INFO", "class": "vehicle", "confidence": 0.873, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:12:57", "severity": "INFO", "class": "car", "confidence": 0.873, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:57", "severity": "INFO", "class": "bus", "confidence": 0.627, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:12:57", "severity": "INFO", "class": "truck", "confidence": 0.576, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:01", "severity": "INFO", "class": "vehicle", "confidence": 0.847, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:01", "severity": "INFO", "class": "car", "confidence": 0.877, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:01", "severity": "INFO", "class": "truck", "confidence": 0.652, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:01", "severity": "INFO", "class": "bus", "confidence": 0.63, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:02", "severity": "DANGER", "class": "wrong_way", "confidence": 0.904, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:05", "severity": "INFO", "class": "vehicle", "confidence": 0.849, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:05", "severity": "INFO", "class": "car", "confidence": 0.905, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:05", "severity": "INFO", "class": "bus", "confidence": 0.577, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:05", "severity": "INFO", "class": "truck", "confidence": 0.513, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:06", "severity": "DANGER", "class": "wrong_way", "confidence": 0.879, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:08", "severity": "INFO", "class": "vehicle", "confidence": 0.856, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:08", "severity": "INFO", "class": "car", "confidence": 0.901, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:08", "severity": "INFO", "class": "bus", "confidence": 0.601, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:10", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:11", "severity": "INFO", "class": "truck", "confidence": 0.431, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:13", "severity": "INFO", "class": "vehicle", "confidence": 0.857, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:13", "severity": "INFO", "class": "car", "confidence": 0.896, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:13", "severity": "INFO", "class": "bus", "confidence": 0.518, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:14", "severity": "DANGER", "class": "wrong_way", "confidence": 0.946, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:17", "severity": "INFO", "class": "vehicle", "confidence": 0.85, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:17", "severity": "INFO", "class": "car", "confidence": 0.905, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:17", "severity": "INFO", "class": "bus", "confidence": 0.582, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:18", "severity": "INFO", "class": "truck", "confidence": 0.404, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:18", "severity": "DANGER", "class": "wrong_way", "confidence": 0.946, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:21", "severity": "INFO", "class": "vehicle", "confidence": 0.846, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:21", "severity": "INFO", "class": "car", "confidence": 0.906, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:21", "severity": "INFO", "class": "bus", "confidence": 0.599, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:22", "severity": "INFO", "class": "truck", "confidence": 0.498, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:22", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:25", "severity": "INFO", "class": "vehicle", "confidence": 0.817, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:25", "severity": "INFO", "class": "car", "confidence": 0.9, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:25", "severity": "INFO", "class": "bus", "confidence": 0.601, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:26", "severity": "INFO", "class": "truck", "confidence": 0.494, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:26", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:29", "severity": "INFO", "class": "vehicle", "confidence": 0.852, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:29", "severity": "INFO", "class": "car", "confidence": 0.919, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:29", "severity": "INFO", "class": "bus", "confidence": 0.589, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:30", "severity": "INFO", "class": "truck", "confidence": 0.417, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:30", "severity": "DANGER", "class": "wrong_way", "confidence": 0.944, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:33", "severity": "INFO", "class": "vehicle", "confidence": 0.852, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:33", "severity": "INFO", "class": "car", "confidence": 0.901, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:33", "severity": "INFO", "class": "bus", "confidence": 0.488, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:34", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:37", "severity": "INFO", "class": "vehicle", "confidence": 0.839, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:37", "severity": "INFO", "class": "car", "confidence": 0.886, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:37", "severity": "INFO", "class": "bus", "confidence": 0.512, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:38", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:39", "severity": "INFO", "class": "truck", "confidence": 0.407, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:43", "severity": "INFO", "class": "vehicle", "confidence": 0.875, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:43", "severity": "INFO", "class": "car", "confidence": 0.875, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:43", "severity": "INFO", "class": "bus", "confidence": 0.503, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:43", "severity": "INFO", "class": "truck", "confidence": 0.437, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:43", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:46", "severity": "INFO", "class": "vehicle", "confidence": 0.878, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:46", "severity": "INFO", "class": "car", "confidence": 0.878, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:46", "severity": "INFO", "class": "bus", "confidence": 0.51, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:46", "severity": "INFO", "class": "truck", "confidence": 0.476, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:46", "severity": "DANGER", "class": "wrong_way", "confidence": 0.904, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:50", "severity": "INFO", "class": "vehicle", "confidence": 0.882, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:50", "severity": "INFO", "class": "car", "confidence": 0.893, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:50", "severity": "INFO", "class": "truck", "confidence": 0.531, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:50", "severity": "INFO", "class": "bus", "confidence": 0.474, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:50", "severity": "DANGER", "class": "wrong_way", "confidence": 0.922, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:53", "severity": "INFO", "class": "vehicle", "confidence": 0.896, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:53", "severity": "INFO", "class": "car", "confidence": 0.896, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:53", "severity": "INFO", "class": "truck", "confidence": 0.609, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:53", "severity": "INFO", "class": "bus", "confidence": 0.498, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:53", "severity": "DANGER", "class": "wrong_way", "confidence": 0.904, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:56", "severity": "INFO", "class": "vehicle", "confidence": 0.887, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:56", "severity": "INFO", "class": "car", "confidence": 0.918, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:56", "severity": "INFO", "class": "truck", "confidence": 0.573, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:56", "severity": "INFO", "class": "bus", "confidence": 0.483, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:56", "severity": "DANGER", "class": "wrong_way", "confidence": 0.928, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:13:59", "severity": "INFO", "class": "vehicle", "confidence": 0.889, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:13:59", "severity": "INFO", "class": "car", "confidence": 0.919, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:59", "severity": "INFO", "class": "truck", "confidence": 0.514, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:59", "severity": "INFO", "class": "bus", "confidence": 0.504, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:13:59", "severity": "DANGER", "class": "wrong_way", "confidence": 0.904, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:02", "severity": "INFO", "class": "vehicle", "confidence": 0.894, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:02", "severity": "INFO", "class": "car", "confidence": 0.922, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:02", "severity": "INFO", "class": "bus", "confidence": 0.53, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:02", "severity": "INFO", "class": "truck", "confidence": 0.503, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:02", "severity": "DANGER", "class": "wrong_way", "confidence": 0.928, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:08", "severity": "INFO", "class": "vehicle", "confidence": 0.892, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:08", "severity": "INFO", "class": "car", "confidence": 0.903, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:08", "severity": "INFO", "class": "truck", "confidence": 0.432, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:08", "severity": "DANGER", "class": "wrong_way", "confidence": 0.938, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:11", "severity": "INFO", "class": "vehicle", "confidence": 0.875, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:11", "severity": "INFO", "class": "car", "confidence": 0.898, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:11", "severity": "INFO", "class": "truck", "confidence": 0.483, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:11", "severity": "INFO", "class": "bus", "confidence": 0.435, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:11", "severity": "DANGER", "class": "wrong_way", "confidence": 0.904, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:14", "severity": "INFO", "class": "vehicle", "confidence": 0.885, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:14", "severity": "INFO", "class": "car", "confidence": 0.885, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:14", "severity": "INFO", "class": "bus", "confidence": 0.432, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:14", "severity": "INFO", "class": "truck", "confidence": 0.431, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:14", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:17", "severity": "INFO", "class": "vehicle", "confidence": 0.877, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:17", "severity": "INFO", "class": "car", "confidence": 0.883, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:17", "severity": "INFO", "class": "truck", "confidence": 0.535, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:17", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:20", "severity": "INFO", "class": "bus", "confidence": 0.494, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:23", "severity": "INFO", "class": "vehicle", "confidence": 0.845, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:23", "severity": "INFO", "class": "car", "confidence": 0.853, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:23", "severity": "INFO", "class": "truck", "confidence": 0.527, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:23", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:26", "severity": "INFO", "class": "vehicle", "confidence": 0.832, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:26", "severity": "INFO", "class": "car", "confidence": 0.882, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:26", "severity": "INFO", "class": "truck", "confidence": 0.604, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:26", "severity": "DANGER", "class": "wrong_way", "confidence": 0.926, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:30", "severity": "INFO", "class": "vehicle", "confidence": 0.825, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:30", "severity": "INFO", "class": "car", "confidence": 0.852, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:30", "severity": "INFO", "class": "truck", "confidence": 0.554, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:30", "severity": "DANGER", "class": "wrong_way", "confidence": 0.894, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:32", "severity": "INFO", "class": "bus", "confidence": 0.474, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:34", "severity": "INFO", "class": "vehicle", "confidence": 0.819, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:34", "severity": "INFO", "class": "car", "confidence": 0.876, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:34", "severity": "DANGER", "class": "wrong_way", "confidence": 0.918, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:35", "severity": "INFO", "class": "truck", "confidence": 0.454, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:37", "severity": "INFO", "class": "vehicle", "confidence": 0.81, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:37", "severity": "INFO", "class": "car", "confidence": 0.881, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:37", "severity": "INFO", "class": "bus", "confidence": 0.427, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:37", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:38", "severity": "INFO", "class": "truck", "confidence": 0.456, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:41", "severity": "INFO", "class": "vehicle", "confidence": 0.85, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:41", "severity": "INFO", "class": "car", "confidence": 0.878, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:41", "severity": "INFO", "class": "bus", "confidence": 0.495, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:41", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:43", "severity": "INFO", "class": "truck", "confidence": 0.426, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:45", "severity": "INFO", "class": "vehicle", "confidence": 0.819, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:45", "severity": "INFO", "class": "car", "confidence": 0.889, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:45", "severity": "INFO", "class": "bus", "confidence": 0.531, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:45", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:47", "severity": "INFO", "class": "truck", "confidence": 0.495, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:49", "severity": "INFO", "class": "vehicle", "confidence": 0.827, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:49", "severity": "INFO", "class": "car", "confidence": 0.902, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:49", "severity": "INFO", "class": "bus", "confidence": 0.514, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:49", "severity": "DANGER", "class": "wrong_way", "confidence": 0.949, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:50", "severity": "INFO", "class": "truck", "confidence": 0.518, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:52", "severity": "INFO", "class": "vehicle", "confidence": 0.84, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:52", "severity": "INFO", "class": "car", "confidence": 0.887, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:52", "severity": "INFO", "class": "bus", "confidence": 0.594, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:52", "severity": "DANGER", "class": "wrong_way", "confidence": 0.943, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:53", "severity": "INFO", "class": "truck", "confidence": 0.564, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:55", "severity": "INFO", "class": "vehicle", "confidence": 0.85, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:55", "severity": "INFO", "class": "car", "confidence": 0.859, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:55", "severity": "INFO", "class": "bus", "confidence": 0.627, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:55", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:14:57", "severity": "INFO", "class": "truck", "confidence": 0.598, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:58", "severity": "INFO", "class": "vehicle", "confidence": 0.875, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:14:58", "severity": "INFO", "class": "car", "confidence": 0.875, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:58", "severity": "INFO", "class": "bus", "confidence": 0.52, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:14:58", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:00", "severity": "INFO", "class": "truck", "confidence": 0.557, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:02", "severity": "INFO", "class": "vehicle", "confidence": 0.875, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:02", "severity": "INFO", "class": "car", "confidence": 0.89, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:02", "severity": "INFO", "class": "bus", "confidence": 0.619, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:02", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:04", "severity": "INFO", "class": "truck", "confidence": 0.675, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:06", "severity": "INFO", "class": "vehicle", "confidence": 0.862, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:06", "severity": "INFO", "class": "car", "confidence": 0.898, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:06", "severity": "INFO", "class": "bus", "confidence": 0.557, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:06", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:08", "severity": "INFO", "class": "truck", "confidence": 0.671, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:10", "severity": "INFO", "class": "vehicle", "confidence": 0.872, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:10", "severity": "INFO", "class": "car", "confidence": 0.872, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:10", "severity": "INFO", "class": "bus", "confidence": 0.616, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:10", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:12", "severity": "INFO", "class": "truck", "confidence": 0.626, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:14", "severity": "INFO", "class": "vehicle", "confidence": 0.839, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:14", "severity": "INFO", "class": "car", "confidence": 0.879, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:14", "severity": "INFO", "class": "bus", "confidence": 0.658, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:14", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:15", "severity": "INFO", "class": "truck", "confidence": 0.589, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:18", "severity": "INFO", "class": "vehicle", "confidence": 0.866, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:18", "severity": "INFO", "class": "car", "confidence": 0.904, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:18", "severity": "INFO", "class": "bus", "confidence": 0.688, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:18", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:20", "severity": "INFO", "class": "truck", "confidence": 0.465, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:22", "severity": "INFO", "class": "vehicle", "confidence": 0.869, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:22", "severity": "INFO", "class": "car", "confidence": 0.897, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:22", "severity": "INFO", "class": "bus", "confidence": 0.564, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:22", "severity": "DANGER", "class": "wrong_way", "confidence": 0.747, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:23", "severity": "INFO", "class": "truck", "confidence": 0.457, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:25", "severity": "INFO", "class": "vehicle", "confidence": 0.888, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:25", "severity": "INFO", "class": "car", "confidence": 0.904, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:25", "severity": "INFO", "class": "bus", "confidence": 0.461, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:25", "severity": "DANGER", "class": "wrong_way", "confidence": 0.759, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:27", "severity": "INFO", "class": "truck", "confidence": 0.531, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:29", "severity": "INFO", "class": "vehicle", "confidence": 0.881, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:29", "severity": "INFO", "class": "car", "confidence": 0.895, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:29", "severity": "INFO", "class": "bus", "confidence": 0.478, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:29", "severity": "DANGER", "class": "wrong_way", "confidence": 0.773, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:31", "severity": "INFO", "class": "truck", "confidence": 0.524, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:33", "severity": "INFO", "class": "vehicle", "confidence": 0.872, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:33", "severity": "INFO", "class": "car", "confidence": 0.885, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:33", "severity": "INFO", "class": "bus", "confidence": 0.495, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:33", "severity": "DANGER", "class": "wrong_way", "confidence": 0.846, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:38", "severity": "INFO", "class": "vehicle", "confidence": 0.863, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:38", "severity": "INFO", "class": "car", "confidence": 0.895, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:38", "severity": "INFO", "class": "bus", "confidence": 0.522, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:38", "severity": "INFO", "class": "truck", "confidence": 0.418, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:38", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:43", "severity": "INFO", "class": "vehicle", "confidence": 0.873, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:43", "severity": "INFO", "class": "car", "confidence": 0.895, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:43", "severity": "INFO", "class": "bus", "confidence": 0.511, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:43", "severity": "DANGER", "class": "wrong_way", "confidence": 0.793, "track_id": 5, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:47", "severity": "INFO", "class": "vehicle", "confidence": 0.873, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:47", "severity": "INFO", "class": "car", "confidence": 0.907, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:47", "severity": "INFO", "class": "bus", "confidence": 0.514, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:47", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:51", "severity": "INFO", "class": "vehicle", "confidence": 0.865, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:51", "severity": "INFO", "class": "car", "confidence": 0.884, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:51", "severity": "INFO", "class": "bus", "confidence": 0.644, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:51", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:54", "severity": "INFO", "class": "vehicle", "confidence": 0.855, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:54", "severity": "INFO", "class": "car", "confidence": 0.881, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:54", "severity": "INFO", "class": "bus", "confidence": 0.653, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:54", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:58", "severity": "INFO", "class": "vehicle", "confidence": 0.868, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:15:58", "severity": "INFO", "class": "car", "confidence": 0.887, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:58", "severity": "INFO", "class": "bus", "confidence": 0.635, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:15:58", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:15:59", "severity": "INFO", "class": "truck", "confidence": 0.428, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:16:03", "severity": "INFO", "class": "vehicle", "confidence": 0.827, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:16:03", "severity": "INFO", "class": "car", "confidence": 0.891, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:16:03", "severity": "INFO", "class": "bus", "confidence": 0.572, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:16:03", "severity": "INFO", "class": "truck", "confidence": 0.449, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:16:03", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:16:07", "severity": "INFO", "class": "vehicle", "confidence": 0.841, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:16:07", "severity": "INFO", "class": "car", "confidence": 0.883, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:16:07", "severity": "INFO", "class": "bus", "confidence": 0.602, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:16:07", "severity": "INFO", "class": "truck", "confidence": 0.422, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:16:07", "severity": "DANGER", "class": "wrong_way", "confidence": 0.95, "track_id": 1, "extra": {"vehicle_class": "vehicle"}}
+{"ts": "2026-03-11T22:19:42", "severity": "INFO", "class": "vehicle", "confidence": 0.646, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:19:42", "severity": "INFO", "class": "person", "confidence": 0.487, "track_id": 2, "extra": {}}
+{"ts": "2026-03-11T22:19:42", "severity": "INFO", "class": "car", "confidence": 0.646, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:19:45", "severity": "INFO", "class": "vehicle", "confidence": 0.532, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:19:45", "severity": "INFO", "class": "car", "confidence": 0.532, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:19:49", "severity": "INFO", "class": "vehicle", "confidence": 0.733, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:19:49", "severity": "INFO", "class": "car", "confidence": 0.733, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:19:49", "severity": "INFO", "class": "fire_hydrant", "confidence": 0.482, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:19:52", "severity": "INFO", "class": "vehicle", "confidence": 0.66, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:19:52", "severity": "INFO", "class": "car", "confidence": 0.66, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:19:55", "severity": "INFO", "class": "vehicle", "confidence": 0.669, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:19:55", "severity": "INFO", "class": "car", "confidence": 0.669, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:19:55", "severity": "INFO", "class": "truck", "confidence": 0.417, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:19:58", "severity": "INFO", "class": "truck", "confidence": 0.415, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:01", "severity": "INFO", "class": "vehicle", "confidence": 0.472, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:20:01", "severity": "INFO", "class": "person", "confidence": 0.556, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:01", "severity": "INFO", "class": "car", "confidence": 0.472, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:01", "severity": "INFO", "class": "truck", "confidence": 0.406, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:05", "severity": "INFO", "class": "person", "confidence": 0.536, "track_id": 6, "extra": {}}
+{"ts": "2026-03-11T22:20:05", "severity": "INFO", "class": "vehicle", "confidence": 0.569, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:20:05", "severity": "INFO", "class": "truck", "confidence": 0.569, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:05", "severity": "INFO", "class": "car", "confidence": 0.508, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:08", "severity": "INFO", "class": "vehicle", "confidence": 0.558, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:20:08", "severity": "INFO", "class": "truck", "confidence": 0.558, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:08", "severity": "INFO", "class": "car", "confidence": 0.477, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:11", "severity": "INFO", "class": "vehicle", "confidence": 0.616, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:20:11", "severity": "INFO", "class": "car", "confidence": 0.616, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:15", "severity": "INFO", "class": "vehicle", "confidence": 0.529, "track_id": 1, "extra": {}}
+{"ts": "2026-03-11T22:20:15", "severity": "INFO", "class": "car", "confidence": 0.569, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:15", "severity": "INFO", "class": "truck", "confidence": 0.529, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:18", "severity": "INFO", "class": "person", "confidence": 0.413, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:27", "severity": "INFO", "class": "vehicle", "confidence": 0.503, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:20:27", "severity": "INFO", "class": "truck", "confidence": 0.503, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:27", "severity": "INFO", "class": "car", "confidence": 0.428, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:30", "severity": "INFO", "class": "truck", "confidence": 0.438, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:34", "severity": "INFO", "class": "truck", "confidence": 0.437, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:34", "severity": "INFO", "class": "car", "confidence": 0.402, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:37", "severity": "INFO", "class": "vehicle", "confidence": 0.462, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:20:37", "severity": "INFO", "class": "truck", "confidence": 0.462, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:37", "severity": "INFO", "class": "car", "confidence": 0.455, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:43", "severity": "INFO", "class": "vehicle", "confidence": 0.526, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:20:43", "severity": "INFO", "class": "truck", "confidence": 0.526, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:43", "severity": "INFO", "class": "car", "confidence": 0.455, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:52", "severity": "INFO", "class": "vehicle", "confidence": 0.524, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:20:52", "severity": "INFO", "class": "truck", "confidence": 0.524, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:52", "severity": "INFO", "class": "car", "confidence": 0.403, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:56", "severity": "INFO", "class": "car", "confidence": 0.423, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:20:56", "severity": "INFO", "class": "truck", "confidence": 0.406, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:02", "severity": "INFO", "class": "vehicle", "confidence": 0.525, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:02", "severity": "INFO", "class": "car", "confidence": 0.525, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:05", "severity": "INFO", "class": "truck", "confidence": 0.431, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:05", "severity": "INFO", "class": "car", "confidence": 0.42, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:08", "severity": "INFO", "class": "truck", "confidence": 0.446, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:11", "severity": "INFO", "class": "truck", "confidence": 0.419, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:14", "severity": "INFO", "class": "vehicle", "confidence": 0.457, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:14", "severity": "INFO", "class": "truck", "confidence": 0.457, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:17", "severity": "INFO", "class": "truck", "confidence": 0.423, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:20", "severity": "INFO", "class": "vehicle", "confidence": 0.505, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:20", "severity": "INFO", "class": "truck", "confidence": 0.505, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:26", "severity": "INFO", "class": "vehicle", "confidence": 0.611, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:26", "severity": "INFO", "class": "truck", "confidence": 0.611, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:30", "severity": "INFO", "class": "vehicle", "confidence": 0.453, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:30", "severity": "INFO", "class": "car", "confidence": 0.453, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:42", "severity": "INFO", "class": "vehicle", "confidence": 0.532, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:42", "severity": "INFO", "class": "truck", "confidence": 0.532, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:42", "severity": "INFO", "class": "car", "confidence": 0.509, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:46", "severity": "INFO", "class": "vehicle", "confidence": 0.488, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:46", "severity": "INFO", "class": "truck", "confidence": 0.488, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:56", "severity": "INFO", "class": "vehicle", "confidence": 0.493, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:56", "severity": "INFO", "class": "truck", "confidence": 0.493, "track_id": null, "extra": {}}
+{"ts": "2026-03-11T22:21:59", "severity": "INFO", "class": "vehicle", "confidence": 0.519, "track_id": 8, "extra": {}}
+{"ts": "2026-03-11T22:21:59", "severity": "INFO", "class": "truck", "confidence": 0.519, "track_id": null, "extra": {}}

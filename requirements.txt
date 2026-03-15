@@ -1,0 +1,23 @@
+# ─── Core Detection ───────────────────────────────────────────────────────────
+ultralytics>=8.3.0          # YOLOv8 / YOLOv11 inference + ByteTrack
+supervision>=0.18.0         # Detection result helpers (boxes, masks, etc.)
+
+# ─── Computer Vision ──────────────────────────────────────────────────────────
+opencv-python>=4.9.0.80     # Frame capture, image processing, annotation
+numpy>=1.24.0
+
+# ─── OCR (License Plate) ──────────────────────────────────────────────────────
+easyocr>=1.7.0
+
+# ─── Web Dashboard ────────────────────────────────────────────────────────────
+flask>=3.0.0
+flask-socketio>=5.3.6
+eventlet>=0.35.1            # Async driver for flask-socketio
+
+# ─── Utilities ────────────────────────────────────────────────────────────────
+pyyaml>=6.0
+pillow>=10.0.0
+requests>=2.31.0            # Model download helper
+tqdm>=4.66.0                # Progress bars
+colorama>=0.4.6             # Colored console output
+pygame>=2.5.0               # Audio alerts (optional)
